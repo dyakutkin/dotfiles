@@ -1,0 +1,5 @@
+[window]
+option_as_alt = "OnlyLeft"
+
+[font.normal]
+family = "PT Mono"
